@@ -21,6 +21,7 @@ public class main {
 		// TODO Auto-generated method stub
 		QueueTest test = new QueueTest();
 		test.startTest();
+		System.out.println("haha");
 	}
 
 }
