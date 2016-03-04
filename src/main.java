@@ -1,9 +1,11 @@
 import java.util.Queue;
 
 import unit11.StackTraceTest;
+import unit13.HashMapTest;
 import unit13.HashSetTest;
 import unit13.LinkedListTest;
 import unit13.QueueTest;
+import unit13.TreeMapTest;
 import unit13.TreeSetTest;
 import unit6.InnerClassTest;
 import unit6.StaticInnerClassTest;
@@ -19,9 +21,8 @@ public class main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		QueueTest test = new QueueTest();
+		TreeMapTest test = new TreeMapTest();
 		test.startTest();
-		System.out.println("haha");
 	}
 
 }
