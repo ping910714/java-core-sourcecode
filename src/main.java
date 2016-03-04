@@ -7,6 +7,7 @@ import unit13.LinkedListTest;
 import unit13.QueueTest;
 import unit13.TreeMapTest;
 import unit13.TreeSetTest;
+import unit14.ThreadTest;
 import unit6.InnerClassTest;
 import unit6.StaticInnerClassTest;
 import unit6.InnerClassTest.TalkingClock;
@@ -21,7 +22,7 @@ public class main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		TreeMapTest test = new TreeMapTest();
+		ThreadTest test = new ThreadTest();
 		test.startTest();
 	}
 
